@@ -1,0 +1,7 @@
+torch
+torchvision
+rfdetr
+supervision
+gradio>=4.0.0
+pillow
+numpy
